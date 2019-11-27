@@ -2,7 +2,7 @@
 
 Coded through an Observer pattern, enables user to customize the size of the board, with simple GUI.
 
-<img src="https://github.com/WeiningLi/Reversi/blob/master/Example.PNG" width="200" height="200">
+<img src="https://github.com/WeiningLi/Reversi/blob/master/Example.PNG" width="500" height="500">
 
 ### Run the game
 
