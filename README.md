@@ -2,6 +2,8 @@
 
 Coded through an Observer pattern, enables user to customize the size of the board, with simple GUI.
 
+![Alt text](https://github.com/WeiningLi/Reversi/blob/master/Example.PNG)
+
 ### Run the game
 
 ensure Xming is installed and launched
